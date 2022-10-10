@@ -853,3 +853,7 @@ body[data-theme="dark"] .text-muted {
   text-align: justify;
   text-align-last: justify;
 }
+
+.uline {
+  text-decoration: underline;
+}
